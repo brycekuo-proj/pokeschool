@@ -7,6 +7,7 @@
 
 https://brycekuo-proj.github.io/pokeschool/?openExternalBrowser=1
 
+- iPad／iPhone 說明頁：https://brycekuo-proj.github.io/pokeschool/ipad/?openExternalBrowser=1
 - 不用安裝，用瀏覽器打開就能用；在 LINE 裡點開會自動改用 Safari／Chrome。
 - iPhone、iPad：在 Safari 按「分享」→「加入主畫面」，就會像 App 一樣有圖示。
 - 進度存在這台裝置的瀏覽器裡；清除瀏覽器資料會不見。
